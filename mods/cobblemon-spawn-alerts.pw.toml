@@ -1,0 +1,16 @@
+filename = 'cobblemon_spawn_alerts-fabric-1.11.3.jar'
+name = 'Cobblemon Spawn Alerts'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'e062025d8969925b2dfd683b93c4827d8c8767c282477521f790d16942748f12fccb5d767be19d0bb5f48fb8ea023b2d878f1a271b7482e0132bac1b40b9ff3f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pb6jwG0t/versions/VuISheRY/cobblemon_spawn_alerts-fabric-1.11.3.jar'
+
+[update.modrinth]
+mod-id = 'pb6jwG0t'
+version = 'VuISheRY'

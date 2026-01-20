@@ -1,0 +1,16 @@
+filename = 'riverredux-fabric-0.4.1.jar'
+name = 'River Redux'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e7b801c6e9f507e0c140d68ae095e4909a5d397e478083aaebf8a332baba9b26ad621fd7045a40ccacf38cadbcacce0ea9207fb7901d90b279827013ad0bde8d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dhhdnacC/versions/vuezoyWH/riverredux-fabric-0.4.1.jar'
+
+[update.modrinth]
+mod-id = 'dhhdnacC'
+version = 'vuezoyWH'

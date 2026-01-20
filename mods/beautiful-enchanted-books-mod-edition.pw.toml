@@ -1,0 +1,16 @@
+filename = 'BEB-Fabric-1.21-6.0.0.jar'
+name = 'Beautiful Enchanted Books [MOD EDITION]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a692425116636eeab04070b0262f234c1f5d0e704e39233e99b39d73d8768f1aeeb912bd2215cbb45a835bdbb4a7314e22bb00b287f90ceea0fb450502057384'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pcqEicMM/versions/kcGH3Tr5/BEB-Fabric-1.21-6.0.0.jar'
+
+[update.modrinth]
+mod-id = 'pcqEicMM'
+version = 'kcGH3Tr5'

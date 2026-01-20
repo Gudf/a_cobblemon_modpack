@@ -1,0 +1,16 @@
+filename = 'cobbleemistuff-fabric-1.1.0.jar'
+name = 'Cobble EMI Stuff'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '3897f3bf7824e3cfa0b3a0568776ab9794641d3e590b39a8fbe62a455c83ad902ede3d0f606608c4352f51829f42b0755c96a5fe97473686679cd6c8efefae63'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9uOewQZ0/versions/5RWk9hrt/cobbleemistuff-fabric-1.1.0.jar'
+
+[update.modrinth]
+mod-id = '9uOewQZ0'
+version = '5RWk9hrt'

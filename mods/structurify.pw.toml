@@ -1,0 +1,16 @@
+filename = 'structurify-fabric-2.0.12+mc1.21.1.jar'
+name = 'Structurify'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7e1eb0e8f4ead2036e5d85deafb0f89ab22ec29cd522b71d947beaf3096ebd42017911aa2d2b266d36f735c3f16a82274910095e01d2ea47cbbb369021f98c95'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yz7AM2zx/versions/6Jk8Zm0G/structurify-fabric-2.0.12%2Bmc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'yz7AM2zx'
+version = '6Jk8Zm0G'

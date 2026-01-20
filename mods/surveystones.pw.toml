@@ -1,0 +1,16 @@
+filename = 'surveystones-2.0.1+1.21.jar'
+name = 'Surveystones'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8c0ff78a1b177071d6a222b268bda057878894b8cc11773b6a6271833cc23c80209d6f3c8cb071fed4fc20b77701df6bb86095e5c69665af973d0056ed263508'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/f3WJvB4r/versions/rV5GYpnO/surveystones-2.0.1%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'f3WJvB4r'
+version = 'rV5GYpnO'

@@ -1,0 +1,16 @@
+filename = 'hoofprint-1.2.1+1.21.jar'
+name = 'Hoofprint'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0dee6353b63db28f6d539879efa50bbb96f918102d5534d16880b9cd0cd4a7b9668e5033bca6c815383968b7d2e65070e449be36419afcf2947033dcf641eba8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8O6iJpuJ/versions/vXFAABN1/hoofprint-1.2.1%2B1.21.jar'
+
+[update.modrinth]
+mod-id = '8O6iJpuJ'
+version = 'vXFAABN1'

@@ -1,0 +1,33 @@
+//
+// mobfilter.json5
+//
+// This file controls the spawn filtering rules for mob-filter.  For details, see the docs at:
+//   https://github.com/pcal43/mob-filter/blob/main/CONFIG.md
+//
+// Note that this file isn't parsed with a true json5 parser; rather it's parsed with google's gson
+// in lenient mode:
+//   https://javadoc.io/doc/com.google.code.gson/gson/latest/com.google.gson/com/google/gson/JsonParser.html
+//
+
+{
+  "rules" : [
+      {
+          "name" : "Allow Villagers (& wandering traders) only",
+          "what" : "ALLOW_SPAWN",
+          "when" : {
+              "entityId" : [ "minecraft:villager", "minecraft:wandering_trader" ]
+          }
+      },
+      {
+          "name" : "But no other vanilla mob",
+          "what" : "DISALLOW_SPAWN",
+          "when" : {
+              "entityId" : [ "minecraft:*" ]
+          }
+      }
+  ],
+
+  // If you"re having trouble, change this to DEBUG or TRACE
+  // to output diagnostic information to debug.log.
+  "logLevel" : "INFO"
+}

@@ -1,0 +1,16 @@
+filename = 'vanity-fabric-1.21.1-5.0.2.jar'
+name = 'Vanity: Core'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd3517c82d665e81f698d85ce43dc0c5803de5f5b578728061ca39d514bc9069c79acd69d51e81bd07a3e1c2f5f8c2cfeb68a2bb998a5aa6f6f5565d3bb553719'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kEcg2xYc/versions/Uu6ODCRm/vanity-fabric-1.21.1-5.0.2.jar'
+
+[update.modrinth]
+mod-id = 'kEcg2xYc'
+version = 'Uu6ODCRm'

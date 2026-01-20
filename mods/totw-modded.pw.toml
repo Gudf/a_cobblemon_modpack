@@ -1,0 +1,29 @@
+filename = 'totw_modded-fabric-1.21-1.0.9.jar'
+name = 'Towers of the Wild Modded'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21.1',
+    '1.21.10',
+    '1.21.11',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b68fa1d52a2464209afd7f57d3227b68acd9bfed5eef6cf0098f203322fb3326e56dceab5df8e4f8c9af4ffd3451680929c7629e63a4dd7d96f1c47f9228869f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/54eqfZSC/versions/5A24T8JD/totw_modded-fabric-1.21-1.0.9.jar'
+
+[update.modrinth]
+mod-id = '54eqfZSC'
+version = '5A24T8JD'

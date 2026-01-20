@@ -1,0 +1,16 @@
+filename = 'Rad Gyms [Cobblemon]-0.3.1-stable.jar'
+name = 'Rad Gyms [Cobblemon]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ca3ec58e5f109b4c8581e3b5810e6ced4b021f955119a15d3008d40103f7e6b966a40a12491dc6e176092a697879d77e9d99250de5cc0065de52835594b75749'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eF8kqlHd/versions/dwe1xnHL/Rad Gyms %5BCobblemon%5D-0.3.1-stable.jar'
+
+[update.modrinth]
+mod-id = 'eF8kqlHd'
+version = 'dwe1xnHL'

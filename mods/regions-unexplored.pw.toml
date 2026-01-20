@@ -1,0 +1,16 @@
+filename = 'regions_unexplored-fabric-1.21.1-0.5.7.jar'
+name = 'Regions Unexplored'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4151bfdc64436693caa663e3687404a9d7949687039aecce269ddff3e297f7fef3fb936f0225f48269b02dc52fb6c863857d5a583b59a231fc8b41f8b69fcdc3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Tkikq67H/versions/fdZGrfYW/regions_unexplored-fabric-1.21.1-0.5.7.jar'
+
+[update.modrinth]
+mod-id = 'Tkikq67H'
+version = 'fdZGrfYW'

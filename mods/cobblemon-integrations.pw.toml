@@ -1,0 +1,16 @@
+filename = 'cobblemonintegrations-fabric-1.21.1-1.1.5.jar'
+name = 'Cobblemon Integrations'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '6fd60ac282c3dbfcf82d2cbb22e08bf4d103635ee1d6e98a7f52fc9ff69f926538521cd69834a77d9e605182ccc73957e6601c41f1025bab80881fb6da5c9a01'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NPCfuUI4/versions/aAMX15bV/cobblemonintegrations-fabric-1.21.1-1.1.5.jar'
+
+[update.modrinth]
+mod-id = 'NPCfuUI4'
+version = 'aAMX15bV'

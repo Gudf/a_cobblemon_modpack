@@ -1,0 +1,16 @@
+filename = 'sparkle-3.1.0.jar'
+name = 'Sparkle!'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'db643f9f56b47b16200aceabf4f4d9ca5ea967a8b4162a2e690afc632b357cd7546ad7354e51dc23d8d70454e0da6cc882a7587d95777213f3800b991e807973'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Lpsy1gMk/versions/bKGiElgB/sparkle-3.1.0.jar'
+
+[update.modrinth]
+mod-id = 'Lpsy1gMk'
+version = 'bKGiElgB'
