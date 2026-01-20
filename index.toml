@@ -10131,11 +10131,6 @@ hash = "7249557c9cd8efc0acd2857530284489c50e7ba0eeeec8f0cc129aaa741ff8bc"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "5f0fdfe34188b3cb9f6fec4c4f2412d261baacecd37f2d66cec52f32a40b9a6e"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a0ea71118f948a71bb01c416eb4dbd31e6542ef73505ab0517ffc3a92083e9b"
 metafile = true
@@ -10766,6 +10761,11 @@ hash = "a568b139df58d6e53101673c28ee031f5dab580052467195c12bbd876019311e"
 metafile = true
 
 [[files]]
+file = "mods/raknetify.pw.toml"
+hash = "54bb24a1eadc460db4f0d3066001cf409e682a02a2ecd22500531185791fa41b"
+metafile = true
+
+[[files]]
 file = "mods/rctapi.pw.toml"
 hash = "6608f3528d71fbf8f3e911dc95a762015b9e0f159f415c10f679c7e079d4aff3"
 metafile = true
@@ -10998,6 +10998,16 @@ metafile = true
 [[files]]
 file = "mods/wwoo.pw.toml"
 hash = "f7da1625a6d1e54c76346c4d662b18cf38ba503b4b07ad4bcc69f7d46a61b7a9"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "120b1b5e775ec88fb6b6a3c11f4d3685a2b28d0badfb73b3606f946599d6b587"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "80d14aa6af38caa8f61f2bd1e98744f6aeda9c0701684ed80422ded03ebab640"
 metafile = true
 
 [[files]]

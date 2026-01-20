@@ -1,0 +1,40 @@
+[flavor_groups.minimap]
+name = "Map"
+description = "Which map mods do you want?"
+side = "client"
+[[flavor_groups.minimap.choices]]
+id = "none"
+name = "None"
+description = "Do not install a minimap mod."
+[[flavor_groups.minimap.choices]]
+id = "xaero"
+name = "Xaero"
+description = "Use Xaero's Minimap and World Map."
+[[flavor_groups.minimap.choices]]
+id = "hoofprint"
+name = "Hoofprint"
+description = "Use Hoofprint and Surveyor. A vanilla-style overview map with landmarks."
+
+[metafile.xaeros-minimap]
+flavors = "xaero"
+[metafile.xaeros-world-map]
+flavors = "xaero"
+[metafile.hoofprint]
+flavors = "hoofprint"
+
+
+[flavor_groups.distant_horizons]
+name = "Distant Horizon"
+description = "Do you want to install Distant Horizons for very large render distances ? (/!\\ Resource-heavy)"
+side = "client"
+[[flavor_groups.distant_horizons.choices]]
+id = "dh"
+name = "Yes"
+description = "Install Distant Horizons"
+[[flavor_groups.distant_horizons.choices]]
+id = "nodh"
+name = "No"
+description = "Do not install Distant Horizons"
+
+[metafile.distanthorizons]
+flavors = "dh"
