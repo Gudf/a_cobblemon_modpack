@@ -5,6 +5,10 @@ file = "balignon_cobblemon.png"
 hash = "3fdbffd3e9e3b52bfd869572ea53a4f2d0cda944e1bd72723e36652ef77d6be0"
 
 [[files]]
+file = "com.unascribed.unsup.json"
+hash = "bcc556f38a5670f13498cdd12d70f4f133d0cebdbf76dae33b9e8b762f8389de"
+
+[[files]]
 file = "config/biomeswevegone/mob_spawn.json"
 hash = "a6cacdd58aae0ff94fa1e6839dd9005d9808c37e4dd1beee01e5f5b215b5308f"
 
