@@ -22,7 +22,7 @@ hash = "040d364e34e387757302814f50813988ca139e870af96480bbbdd6e590c0ffe0"
 
 [[files]]
 file = "config/global_packs.toml"
-hash = "2f757ebf5c026d20a353db9c92c428f50a8828331f2d08a198c1163cfba546b9"
+hash = "8e63412e34b568b69ff399eaebcc68f7ef0846f4aa5e51e9eb2d516698a4a3f5"
 
 [[files]]
 file = "config/immediatelyfast.json"
