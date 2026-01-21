@@ -1,6 +1,6 @@
 filename = 'MoogsTemplesReimagined-1.21-1.0.4.jar'
 name = "MTR - Moog's Temples Reimagined"
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.21',

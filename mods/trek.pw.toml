@@ -1,6 +1,6 @@
 filename = 'trek-B0.5.1.2.jar'
 name = 'Trek'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric', 'quilt' ]
 x-prismlauncher-mc-versions = [
     '1.19',

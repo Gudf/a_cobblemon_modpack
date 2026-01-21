@@ -1,6 +1,6 @@
 filename = 'mobfilter-0.11.2+1.21.1.jar'
 name = 'Mob Filter'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'

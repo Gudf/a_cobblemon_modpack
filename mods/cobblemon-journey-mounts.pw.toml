@@ -1,16 +1,15 @@
-filename = 'cobblemon-journey-mounts-1.6.jar'
-name = 'Cobblemon Journey Mounts'
-side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Cobblemon Journey Mounts"
+filename = "cobblemon-journey-mounts-1.6.jar"
+side = "both"
+pin = true
 
 [download]
-hash = '4a4d5eebb1831ed5369b1de3b68679b72b71f81dd494ee8dcd98a2a0ccf3c71f6da12c326d97858b3ab60f19709fd5dbf5e6e810f456795df9562e5103ae7472'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Vn5WCYr6/versions/GMRr9NuV/cobblemon-journey-mounts-1.6.jar'
+url = "https://cdn.modrinth.com/data/Vn5WCYr6/versions/GMRr9NuV/cobblemon-journey-mounts-1.6.jar"
+hash-format = "sha512"
+hash = "4a4d5eebb1831ed5369b1de3b68679b72b71f81dd494ee8dcd98a2a0ccf3c71f6da12c326d97858b3ab60f19709fd5dbf5e6e810f456795df9562e5103ae7472"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'Vn5WCYr6'
-version = 'GMRr9NuV'
+mod-id = "Vn5WCYr6"
+version = "GMRr9NuV"

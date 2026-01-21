@@ -1,6 +1,6 @@
 filename = 'MoogsEndStructures-1.21-2.0.1.jar'
 name = "MES - Moog's End Structures"
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.21',

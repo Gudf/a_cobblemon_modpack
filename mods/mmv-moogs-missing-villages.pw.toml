@@ -1,6 +1,6 @@
 filename = 'MoogsMissingVillages-1.21-2.0.0.jar'
 name = "MMV - Moog's Missing Villages"
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.21',

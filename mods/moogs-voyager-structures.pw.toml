@@ -1,6 +1,6 @@
 filename = 'MoogsVoyagerStructures-1.21-5.0.3.jar'
 name = "MVS - Moog's Voyager Structures"
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.21',

@@ -1,6 +1,6 @@
 filename = 'farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-fabric.jar'
 name = "Farmer's Cutting: Oh The Biomes We've Gone"
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'

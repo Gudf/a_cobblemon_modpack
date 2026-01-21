@@ -1,6 +1,6 @@
 filename = 'unchained-fabric-1.7.1-1.7.1.jar'
 name = 'Cobblemon Unchained'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'

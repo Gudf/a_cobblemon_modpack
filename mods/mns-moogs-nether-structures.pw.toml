@@ -1,6 +1,6 @@
 filename = 'MoogsNetherStructures-1.21-2.0.31.jar'
 name = "MNS - Moog's Nether Structures"
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.21',

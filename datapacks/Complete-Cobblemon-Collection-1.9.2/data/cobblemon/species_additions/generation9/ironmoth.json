@@ -1,9 +1,0 @@
-{
-  "target": "cobblemon:ironmoth",
-  "implemented": true,
-  "hitbox": {
-    "width": 1.15,
-    "height": 2.35,
-    "fixed": false
-  }
-}

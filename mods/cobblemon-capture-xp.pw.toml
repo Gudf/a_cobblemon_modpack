@@ -1,6 +1,6 @@
 filename = 'capturexp-fabric-1.7.1-1.3.0.jar'
 name = 'Cobblemon Capture XP'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'

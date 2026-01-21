@@ -1,6 +1,6 @@
 filename = 'MoogsSoaringStructures-1.21-2.0.0.jar'
 name = "MSS - Moog's Soaring Structures"
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.21',

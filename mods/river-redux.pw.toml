@@ -1,6 +1,6 @@
 filename = 'riverredux-fabric-0.4.1.jar'
 name = 'River Redux'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'

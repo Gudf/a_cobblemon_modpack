@@ -1,6 +1,6 @@
 filename = 'farmers-cutting-regions-unexplored-1.21.1-1.1a-fabric.jar'
 name = "Farmer's Cutting: Regions Unexplored"
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
