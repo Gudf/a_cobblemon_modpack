@@ -599,6 +599,21 @@ hash = "8baf7a5e7e64319cec112741426335d35f013d357af63074675305f6061022af"
 metafile = true
 
 [[files]]
+file = "mods/journey-pac.pw.toml"
+hash = "fad423f58d5e70bde347256e8e6b22a925682bf264c1d33b7d09a7ef1c9949c7"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-integration.pw.toml"
+hash = "172c041eb75dcbec997efd632105ae9ea81aaecbccf5f642e7d868e90d5b0b76"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "7375f12e54998e218a602ba71a0554dc1bcbd9cc56e152eed4174e86ddecb33c"
+metafile = true
+
+[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "25f4cf5b02e671100af2d0cb85d42b5297c317413293d50f89f731594e82cf6c"
 metafile = true

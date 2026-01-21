@@ -11,9 +11,13 @@ id = "xaero"
 name = "Xaero"
 description = "Use Xaero's Minimap and World Map."
 [[flavor_groups.minimap.choices]]
+id = "journeymap"
+name = "JourneyMap"
+description = "Use JourneyMap."
+[[flavor_groups.minimap.choices]]
 id = "hoofprint"
 name = "Hoofprint"
-description = "Use Hoofprint and Surveyor. A vanilla-style overview map with landmarks."
+description = "Use Hoofprint and Surveyor. No minimap, won't show Pokémon icons."
 
 [metafile.xaeros-minimap]
 flavors = "xaero"
@@ -21,6 +25,12 @@ flavors = "xaero"
 flavors = "xaero"
 [metafile.hoofprint]
 flavors = "hoofprint"
+[metafile.journeymap]
+flavors = "journeymap"
+[metafile.journeymap-integration]
+flavors = "journeymap"
+[metafile.journey-pac]
+flavors = "journeymap"
 
 
 [flavor_groups.distant_horizons]
