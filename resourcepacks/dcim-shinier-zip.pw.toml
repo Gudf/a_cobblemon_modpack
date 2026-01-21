@@ -1,0 +1,8 @@
+name = "dCIM_shinier.zip"
+filename = "dCIM_Shinier_v1.zip"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/9hia8idjx7wtpothu2gua/dCIM_Shinier_v1.zip?rlkey=flp0ma9lh298j7dihs0nv9q8o&st=eetor9w5&dl=1"
+hash-format = "sha256"
+hash = "b48eac2c2b5c71f7694d5a3ebe4e6db6a3c55c410b00bf57d1c1e76b93aa3142"

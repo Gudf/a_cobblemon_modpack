@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "balignon_cobblemon.png"
+hash = "3fdbffd3e9e3b52bfd869572ea53a4f2d0cda944e1bd72723e36652ef77d6be0"
+
+[[files]]
 file = "config/biomeswevegone/mob_spawn.json"
 hash = "a6cacdd58aae0ff94fa1e6839dd9005d9808c37e4dd1beee01e5f5b215b5308f"
 
@@ -10147,7 +10151,7 @@ metafile = true
 
 [[files]]
 file = "mods/ati-structures-fabricforge.pw.toml"
-hash = "82bcf8f33cdfad71d07eeaea83848b2da11196805c6fffc99bc8535ee0f88008"
+hash = "aff54dae4034307a16c3938fc45f2e37307b8138735afc73b6179c42f416ba33"
 metafile = true
 
 [[files]]
@@ -10757,7 +10761,7 @@ metafile = true
 
 [[files]]
 file = "mods/rad-gyms.pw.toml"
-hash = "a568b139df58d6e53101673c28ee031f5dab580052467195c12bbd876019311e"
+hash = "2b43a287a63bd30831540b6c2abcb997b15461845e10fc646c38a389580e03ba"
 metafile = true
 
 [[files]]
@@ -20947,3 +20951,21 @@ hash = "3d134a927301d0204b67fba8751892cc250851665b31e2760e55919400e35e9f"
 [[files]]
 file = "resourcepacks/Complete-Cobblemon-Collection-1.9.2/permissions/Permissions - Imgur.png"
 hash = "86d0b690c61efa0560531f8c153a8848bd99c73d7f4ad00ba2c7f13b76642052"
+
+[[files]]
+file = "resourcepacks/dcim-shinier-zip.pw.toml"
+hash = "b1d47640fba818ab69361a9ad14fdcbf527de7026b999be802a5b45357477bf8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dcim.pw.toml"
+hash = "792968ee52d5c902e9abdfb5ef055046f8758173c5d80a3f442f6ff2bd5d624a"
+metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "614474a82b78ed18daee787fd963f68a7a6ab27c46dfae9747d84e7e4a242de9"
+
+[[files]]
+file = "unsup.toml"
+hash = "61fd70852db61fdea51bdeba21a81a133fe533ba8d282ee4a62244d159cfa6dd"

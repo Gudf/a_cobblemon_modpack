@@ -1,0 +1,13 @@
+name = "datboiwill's Cobblemon Icons for Maps"
+filename = "dCIM1.0.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fOzKqjMA/versions/rWMi2fpt/dCIM1.0.3.zip"
+hash-format = "sha512"
+hash = "3f0da9f82590786ffe7dab022942319740a3d096d427e83b4c82c06fbc0903fec88a9d589b9f8ce6f33b8e94423406f7a1fec3c42112060b047baacd0dbc62fe"
+
+[update]
+[update.modrinth]
+mod-id = "fOzKqjMA"
+version = "rWMi2fpt"
