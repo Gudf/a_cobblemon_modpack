@@ -1,16 +1,13 @@
-filename = 'timcore-fabric-1.7.1-1.28.1.jar'
-name = 'Cobblemon Tim Core'
-side = 'server'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Cobblemon Tim Core"
+filename = "timcore-fabric-1.7.1-1.29.0.jar"
+side = "both"
 
 [download]
-hash = '4e6512a6284d9d303911de4bd80ee2456cb27936f2e0c6643a8f664606c0820e09acca8cbcf5f1a2eed1be6004250ace940e5c7b7b59e01a3b915e7de5bdc430'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/lVP9aUaY/versions/IeuGQckn/timcore-fabric-1.7.1-1.28.1.jar'
+url = "https://cdn.modrinth.com/data/lVP9aUaY/versions/w4QsEH5G/timcore-fabric-1.7.1-1.29.0.jar"
+hash-format = "sha512"
+hash = "fde893a9a8b38354225b85ed1b5497a413bc3ebe9479f47ddffb86189b33c6266ac5dcf33a9c624ff8494798e0ff6d00fde2f9e82276c83d54b98acd39618d89"
 
+[update]
 [update.modrinth]
-mod-id = 'lVP9aUaY'
-version = 'IeuGQckn'
+mod-id = "lVP9aUaY"
+version = "w4QsEH5G"
