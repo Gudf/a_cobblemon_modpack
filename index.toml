@@ -449,11 +449,6 @@ hash = "4e394aacee89ec5e8fef921f886d88aed2885ad28667b59049435d4c42baa264"
 metafile = true
 
 [[files]]
-file = "mods/dramatic-doors.pw.toml"
-hash = "011e6089b65219419219da010f23b12b0e0ecf64d160273d4833c487d9c54b9a"
-metafile = true
-
-[[files]]
 file = "mods/ears.pw.toml"
 hash = "59003b5b945e3fc211050962125a56fd958ea35dd462af47cca8ade8ef4f76bc"
 metafile = true
