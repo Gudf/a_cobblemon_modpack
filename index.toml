@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "balignon_cobblemon.png"
-hash = "3fdbffd3e9e3b52bfd869572ea53a4f2d0cda944e1bd72723e36652ef77d6be0"
+hash = "d69335de1cd11ae8174f61ff71a933d96d1b06924d73d05ba779f63e993fdeb3"
 
 [[files]]
 file = "com.unascribed.unsup.json"
@@ -641,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "fa4aceb4964b800a92e3e07ac8f38a629accccfde76d42a88e2bdb2baf4b3acb"
+hash = "4a86a1c05c82ff43a3c74dc4897860dff9c4bd5f03fd01b790bd7215f93e5cf2"
 metafile = true
 
 [[files]]
@@ -801,7 +801,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e30fd5a8a502fb65f546f018b9e9ea1f94a48e3fd98ba5a16468cd0d093c3798"
+hash = "b0b1b053e2e5ec1e315e6bed034f46b6c12adb7ea1bb6065c5a8fe7367065274"
 metafile = true
 
 [[files]]
