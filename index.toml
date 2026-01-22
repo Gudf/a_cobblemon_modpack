@@ -17,8 +17,20 @@ file = "config/biomeswevegone/mob_spawn.json"
 hash = "a6cacdd58aae0ff94fa1e6839dd9005d9808c37e4dd1beee01e5f5b215b5308f"
 
 [[files]]
+file = "config/cobbled_counter.json"
+hash = "b62bd4092a50110c8db2f3d4ee5051e3c139f3d6ba99d57bf8622c7b2d6abf99"
+
+[[files]]
 file = "config/cobblemon/main.json"
 hash = "7c13a98ad4984623796c2c8c81252362a315b8f1c75c1b0926b7e9e0eac07f58"
+
+[[files]]
+file = "config/cobblemonintegrations-common.toml"
+hash = "5fa0117fa0f749ed402603eab66cc3b6c56ecae7c5d0a79dd1bb5db78447a9bc"
+
+[[files]]
+file = "config/cobbreeding/main.json"
+hash = "403d81db01bc8cb7b777f1497f6752d6446a2bfcf6f087cd5daebcc181763d3f"
 
 [[files]]
 file = "config/exposure-common.toml"
@@ -215,6 +227,10 @@ hash = "7b24c882801bcc7f0a8aedc625d419f661fa490fa0e9d5ebe39599a1ce2dcbd5"
 [[files]]
 file = "config/xaero/world-map/server_profiles/default.cfg"
 hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
 
 [[files]]
 file = "datapacks/Academy.zip"
