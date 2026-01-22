@@ -1199,6 +1199,11 @@ hash = "792968ee52d5c902e9abdfb5ef055046f8758173c5d80a3f442f6ff2bd5d624a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "cf676fc954f3d574b53395e377d41d37dfcd97d033862523e818e2967ca902a0"
+metafile = true
+
+[[files]]
 file = "unsup.ini"
 hash = "614474a82b78ed18daee787fd963f68a7a6ab27c46dfae9747d84e7e4a242de9"
 
