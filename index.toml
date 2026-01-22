@@ -570,6 +570,11 @@ hash = "d28148ea42fa3e78e5c7789e60f54f583f74babb0376767c7de371255f06c055"
 metafile = true
 
 [[files]]
+file = "mods/emojiful.pw.toml"
+hash = "87dc510f0c2a479e7e192c5c1f9f91eaf76e84a548388b6fe4aa6c24c517860b"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "b5d50b01554c0fed95cdbf498e327453baa39355c93cefeb80e656e14e7512d0"
 metafile = true
