@@ -157,6 +157,10 @@ file = "config/unchained/spawn/shinySpawnBooster.json"
 hash = "678d0f1629a59ce9f0dcde9b6c9485bc1cc69fa853c8141c458302e4abfdc414"
 
 [[files]]
+file = "config/via_romana.json"
+hash = "73ad25b2941cdb981e4e8d1cd59ae9acb4e98f90625f1d74be787d17a4e43d33"
+
+[[files]]
 file = "config/visualworkbench-client.toml"
 hash = "0fa589ae7bda71cebc7aef3146c96283b0bdd59eaa73d9ac62695b7d0a760560"
 
@@ -928,6 +932,11 @@ metafile = true
 [[files]]
 file = "mods/redirected.pw.toml"
 hash = "5d8ead32d980d85d410f06ef13d4801b131c085d962ad892748e9b6c2a12bff2"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
