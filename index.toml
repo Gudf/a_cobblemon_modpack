@@ -1025,11 +1025,6 @@ hash = "2a92db97d4fc3b83bde94ea5a3081dd0a833853b85b14fb36ffe4be449c52f53"
 metafile = true
 
 [[files]]
-file = "mods/sound.pw.toml"
-hash = "f5628484ce39313b0fa0a1fecf909ff3f07062667bcc220732440ac6a23b6d48"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "247cc9f6b0bd36470ceca22809d7b08d197f534c617e347899966cde9685033b"
 metafile = true
