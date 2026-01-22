@@ -1,0 +1,26 @@
+{
+  "points": {
+    "capture": {
+      "streak": 1.0
+    },
+    "ko": {
+      "streak": 0.5
+    }
+  },
+  "thresholds": {
+    "10": 1.0,
+    "20": 2.0,
+    "30": 3.0,
+    "40": 4.0,
+    "100": 5.0
+  },
+  "breakStreakOnSuccess": [],
+  "defaultValue": 0.0,
+  "debug": false,
+  "enabled": true,
+  "lockToPlayer": false,
+  "blacklist": [],
+  "whitelist": [],
+  "careAboutForms": true,
+  "notifyPlayer": true
+}

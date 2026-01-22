@@ -9,6 +9,10 @@ file = "com.unascribed.unsup.json"
 hash = "bcc556f38a5670f13498cdd12d70f4f133d0cebdbf76dae33b9e8b762f8389de"
 
 [[files]]
+file = "config/PastureLoot.json"
+hash = "143469c70d41ba8df3b9770e8c57ae59f84de193e98bdef08023ac4ff65a217b"
+
+[[files]]
 file = "config/biomeswevegone/mob_spawn.json"
 hash = "a6cacdd58aae0ff94fa1e6839dd9005d9808c37e4dd1beee01e5f5b215b5308f"
 
@@ -67,6 +71,78 @@ hash = "f74403308d2eb2a4638c40c99d0759c632a8e795fffe358017667b4521408646"
 [[files]]
 file = "config/treechop-common.toml"
 hash = "a4f819097028e3ab6d3dac4f6fb8ac0605470da4a8a33be8e9961974c05877ea"
+
+[[files]]
+file = "config/unchained/capture/hiddenCaptureBooster.json"
+hash = "7643c526d2bfa5a877f885eb73bdf7fc82d8b4b9f297b2272f371a802dfb8ff1"
+
+[[files]]
+file = "config/unchained/capture/ivCaptureBooster.json"
+hash = "482108fc4c2f3ad13cb91893ffa947c7680e6efa296a8cf707991eb5004ff242"
+
+[[files]]
+file = "config/unchained/capture/shinyCaptureBooster.json"
+hash = "482108fc4c2f3ad13cb91893ffa947c7680e6efa296a8cf707991eb5004ff242"
+
+[[files]]
+file = "config/unchained/egg/hiddenEggBooster.json"
+hash = "95aa98b63e4da4e33966f6c3e5b4056b19c1e91e71f8a48dbc3651c0fdaaee91"
+
+[[files]]
+file = "config/unchained/egg/ivEggBooster.json"
+hash = "5f6899b32025c5dea250f0f8bfbc7c4c75767874d16bab952ef724b9844905af"
+
+[[files]]
+file = "config/unchained/egg/shinyEggBooster.json"
+hash = "7e5c328f860bf7d5e9890b7c8a307cf6da7ea4ed37f8b5dd8eeebd7341105787"
+
+[[files]]
+file = "config/unchained/fish/hiddenFishBooster.json"
+hash = "f8ceb94b85a1ad4a63e174d0f76e33bbb59699b94c2d103fe954a8b759b244cd"
+
+[[files]]
+file = "config/unchained/fish/ivFishBooster.json"
+hash = "a3d4bf754296432d419d6c150a8fd3d11983561a6063eb8bd182d779c5a984ef"
+
+[[files]]
+file = "config/unchained/fish/shinyFishBooster.json"
+hash = "8de5ab7f32e47e30e9ffeb1789562638e6e00424ecdd0f530da64f068388bb86"
+
+[[files]]
+file = "config/unchained/resurrection/hiddenRezBooster.json"
+hash = "92a256e8622f27134f4957906848af213fc67ad7aa3761b5baf12d8a6e45a0eb"
+
+[[files]]
+file = "config/unchained/resurrection/ivRezBooster.json"
+hash = "54339f90931ec9796265cc98ca0e0bb89c71cc71bb424b5b87a3fc579a6d52d7"
+
+[[files]]
+file = "config/unchained/resurrection/shinyRezBooster.json"
+hash = "cc2af8cff18f38d88a0637036829c9587dab28b66438d5abe41d45581e912417"
+
+[[files]]
+file = "config/unchained/snack/hiddenSnackBooster.json"
+hash = "089e4c5cbb5a6ecdc5e30b55d8b6566bb336ab8f13363d3707b1df0788bb3fb1"
+
+[[files]]
+file = "config/unchained/snack/ivSnackBooster.json"
+hash = "2a518c72e2a38d9249cca15c63c1f6dbe0ab8da9bd07d14d12f5a0f206ff0197"
+
+[[files]]
+file = "config/unchained/snack/shinySnackBooster.json"
+hash = "9c632edb5e8b6f0438ae2cf3fff1fd8988e7355eca3ceab70a5880ca3882113a"
+
+[[files]]
+file = "config/unchained/spawn/hiddenSpawnBooster.json"
+hash = "f8ceb94b85a1ad4a63e174d0f76e33bbb59699b94c2d103fe954a8b759b244cd"
+
+[[files]]
+file = "config/unchained/spawn/ivSpawnBooster.json"
+hash = "a3d4bf754296432d419d6c150a8fd3d11983561a6063eb8bd182d779c5a984ef"
+
+[[files]]
+file = "config/unchained/spawn/shinySpawnBooster.json"
+hash = "678d0f1629a59ce9f0dcde9b6c9485bc1cc69fa853c8141c458302e4abfdc414"
 
 [[files]]
 file = "config/visualworkbench-client.toml"
@@ -361,11 +437,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-trials-edition.pw.toml"
 hash = "f838f7538f8845c295632fc00bda0002fb84e1666b7468c0b8f7e99a9aaed126"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-ui-tweaks.pw.toml"
-hash = "73d4d8788cf9247d4b80a5a69f4b776c61b08e4bc123f6529464628323a62c28"
 metafile = true
 
 [[files]]
@@ -1103,4 +1174,4 @@ hash = "614474a82b78ed18daee787fd963f68a7a6ab27c46dfae9747d84e7e4a242de9"
 
 [[files]]
 file = "unsup.toml"
-hash = "61fd70852db61fdea51bdeba21a81a133fe533ba8d282ee4a62244d159cfa6dd"
+hash = "7f2bf5317f6f3e3d7b87de82dea0b6d5ef7d76c0d1f2af68a66a2de9e57b1ffd"
