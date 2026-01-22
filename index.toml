@@ -776,6 +776,11 @@ hash = "e2b060c08575324c1ed9a4f7138582a9e50e65143f4f7c08e2b0e8b177c2a93e"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "492fe2b4d82b00489ddc4d1f8c3f5489f7f847e999cfd6dec5de27e2ba683811"
+metafile = true
+
+[[files]]
 file = "mods/mmv-moogs-missing-villages.pw.toml"
 hash = "acd22c004e19d234891e17dc63f2699283be7766e405b07563c7b8503c842305"
 metafile = true
@@ -1126,6 +1131,11 @@ hash = "3ceba17077f2085290f606b49e78ce998d09f35bef6fbc846f33f739e96e8af0"
 metafile = true
 
 [[files]]
+file = "mods/via-romana.pw.toml"
+hash = "572059a788e49f36998675f6e95d053bc6124078295f468ed7bc73745a444a2c"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "f58da16051b04e6e631697a907805ee5112501580111e216015ea450555eb003"
 metafile = true
@@ -1133,11 +1143,6 @@ metafile = true
 [[files]]
 file = "mods/wakes.pw.toml"
 hash = "9d98fe64ee653ed7ccc12f9f86869fe40490c308862f86b3a69d16ac1d58ddf0"
-metafile = true
-
-[[files]]
-file = "mods/waystones.pw.toml"
-hash = "89dadf69ce87f3ab74ac42305600e1192aad93637d70423c42286fc092c8dc68"
 metafile = true
 
 [[files]]
