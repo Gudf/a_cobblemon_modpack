@@ -324,6 +324,16 @@ hash = "be2e884aa03c2ca9ed20745c2cd927be1c53614b248c1ebebd4d39a7c9fbb437"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-paleontology.pw.toml"
+hash = "919b1b79486c5c681864eccf15a449e6bf60bced6bad03dc44ebbe7f5911cde5"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pasture-loot.pw.toml"
+hash = "253284368b80980f3261e44b2a539db0a608f525c6adfe8f096803de0c8e9c90"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-playerxp.pw.toml"
 hash = "602875d937a668ce5591df81bcf87c9aceed348922bce4c31da97bc836b6a318"
 metafile = true
