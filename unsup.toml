@@ -1,23 +1,23 @@
 [flavor_groups.minimap]
-name = "Map"
-description = "Which map mods do you want?"
+name = "Carte"
+description = "Quel mod voulez-vous utiliser pour la carte?"
 side = "client"
 [[flavor_groups.minimap.choices]]
 id = "none"
-name = "None"
-description = "Do not install a minimap mod."
+name = "Aucun"
+description = "Ne pas installer de mod de carte."
 [[flavor_groups.minimap.choices]]
 id = "xaero"
 name = "Xaero"
-description = "Use Xaero's Minimap and World Map."
+description = "Utiliser Xaero's Minimap et Xaero's Worldmap."
 [[flavor_groups.minimap.choices]]
 id = "journeymap"
 name = "JourneyMap"
-description = "Use JourneyMap."
+description = "Utiliser JourneyMap."
 [[flavor_groups.minimap.choices]]
 id = "hoofprint"
 name = "Hoofprint"
-description = "Use Hoofprint and Surveyor. No minimap, won't show Pokémon icons."
+description = "Utiliser Hoofprint. Pas de minimap, ne montrera pas les icônes de pokémon."
 
 [metafile.xaeros-minimap]
 flavors = "xaero"
@@ -35,16 +35,16 @@ flavors = "journeymap"
 
 [flavor_groups.distant_horizons]
 name = "Distant Horizon"
-description = "Do you want to install Distant Horizons for very large render distances ? (/!\\ Resource-heavy)"
+description = "Voulez-vous installer Distant Horizons pour des distances d'affichages très élevées ? (/!\\ Très gourmand!)"
 side = "client"
 [[flavor_groups.distant_horizons.choices]]
 id = "dh"
-name = "Yes"
-description = "Install Distant Horizons"
+name = "Oui"
+description = "Installer Distant Horizons"
 [[flavor_groups.distant_horizons.choices]]
 id = "nodh"
-name = "No"
-description = "Do not install Distant Horizons"
+name = "None"
+description = "Ne pas installer Distant Horizons"
 
 [metafile.distanthorizons]
 flavors = "dh"
