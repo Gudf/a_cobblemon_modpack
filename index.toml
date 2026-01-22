@@ -340,6 +340,11 @@ hash = "f8ecc2313239cc94c964ae0d43b89d99f33ba2b28f9de342c7b5693f788ced0c"
 metafile = true
 
 [[files]]
+file = "mods/blur-plus.pw.toml"
+hash = "7c509b4a79eb222854ca32012a2e74500e4af55300d236b3a13b474e1e373d65"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "29c3ce06159310cf74add2733f7fc3d213595aa8011f825a25b416e56e1bd739"
 metafile = true
@@ -682,6 +687,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "eeaefacd0ec2d2418c626a1a4745f698d76691e48b6cb517f8913bdc328c50fe"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "515b020926d1fd0b6d1a32d106a376ba2c77bc5587bed99cecbc2d944ad18a99"
 metafile = true
 
 [[files]]
