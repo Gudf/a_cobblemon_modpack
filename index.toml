@@ -1145,6 +1145,11 @@ hash = "d20a28b2a76c60c544a92096f046b128ee34eee3f0eb1e626c359ce4a528a888"
 metafile = true
 
 [[files]]
+file = "mods/vanish.pw.toml"
+hash = "28d46dace618c4907d89e7041b37629ea21eab19af77b03f78cf5e0b8c32914b"
+metafile = true
+
+[[files]]
 file = "mods/vanity-core.pw.toml"
 hash = "3ceba17077f2085290f606b49e78ce998d09f35bef6fbc846f33f739e96e8af0"
 metafile = true
