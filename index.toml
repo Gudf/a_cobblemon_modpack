@@ -245,6 +245,34 @@ file = "datapacks/Complete-Cobblemon-Collection-1.9.2.zip"
 hash = "adf6f70c8b05b2aeab1b9736281ca877b36fd7af9366e209ce49f9f5b07f5368"
 
 [[files]]
+file = "datapacks/cobblecuisine-fix/data/cobblecuisine/recipe/bean_medley_curry.json"
+hash = "d93f4b14f48c48365e4b5499d158aa702462635cb85c630813861d77ec8197dc"
+
+[[files]]
+file = "datapacks/cobblecuisine-fix/data/cobblecuisine/recipe/bitter_herb_medley_curry.json"
+hash = "18cd8ac3c07caa8721f690b9fa9869bf28838c060e66ee393c00a32917defeb0"
+
+[[files]]
+file = "datapacks/cobblecuisine-fix/data/cobblecuisine/recipe/dry_hefty_sandwich.json"
+hash = "5a6f5acf258c018d65a323e14ab6b5e5d08317f1867be4d51142ec5edd327188"
+
+[[files]]
+file = "datapacks/cobblecuisine-fix/data/cobblecuisine/recipe/mint_pokepuff.json"
+hash = "df6fa619d6e1578365d1a4d6d95acb540876da4184b3815d805f69b50e92020e"
+
+[[files]]
+file = "datapacks/cobblecuisine-fix/data/cobblecuisine/recipe/spicy_five_alarm_sandwich.json"
+hash = "3bb3552f7ae7d6145ee118efe1f97a96f20775f2ae6ac8a1fddc4c6266598504"
+
+[[files]]
+file = "datapacks/cobblecuisine-fix/data/cobblecuisine/recipe/spicy_ham_sandwich.json"
+hash = "be268775be7d8d3736370371dbcec7e2138ad97cca7349e26eeb3568392e31cf"
+
+[[files]]
+file = "datapacks/cobblecuisine-fix/pack.mcmeta"
+hash = "b504b049ea3496900118195da1c5e0a12d80e1158c77b797e46de801e14ae412"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "a2cb4f42db301d9fa8a389b206104721f23f24d48a4528672c8fb7d06f142d3f"
 metafile = true
@@ -842,6 +870,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d28c66512e16841d78963681541127124bbeb892d28a727d533da984fa5c86d3"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "03a0e59d92817e3347294bb172707c6a46a536eb0a431592212c3b763e9f1975"
 metafile = true
 
 [[files]]
