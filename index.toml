@@ -380,6 +380,11 @@ hash = "408f0a696dae82406d0121d3af570058863402e47bb3b8a15c0d2c3372abae54"
 metafile = true
 
 [[files]]
+file = "mods/cobblecuisine.pw.toml"
+hash = "dd9c84c3f22e37ee533990585112642b5c9a7ede61d29e5d13330a99b9a48b02"
+metafile = true
+
+[[files]]
 file = "mods/cobbleemistuff.pw.toml"
 hash = "5e7ea29293585c4c48466427e27842e92bd379388d8b44fff3710ed897c94e66"
 metafile = true

@@ -1,0 +1,29 @@
+{
+    "category": "misc",
+    "group": "cobblecuisine",
+    "ingredients": [
+        {
+            "item": "minecraft:milk_bucket"
+        },
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:wheat"
+        },
+        {
+            "tag": "cobblemon:mint_leaves"
+        },
+        {
+            "item": "cobblemon:whipped_dream"
+        },
+        {
+            "tag": "cobblemon:dry_20"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "cobblecuisine:mint_pokepuff"
+    },
+    "type": "minecraft:crafting_shapeless"
+}
