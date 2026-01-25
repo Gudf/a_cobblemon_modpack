@@ -568,6 +568,11 @@ hash = "dbfd362ead844369e7e63e0c69998cadf7c23c43d6e8169fd0a3817e97cf3141"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "9e444b3cfef7e5874823dc34c529c3ab322fda7ec56d96a06dd3c763bad238df"
+metafile = true
+
+[[files]]
 file = "mods/data-anchor.pw.toml"
 hash = "7d0953cca773c44af3f79891f7a05fe5542993a719797fbd1c2f4a1716bf956f"
 metafile = true
@@ -665,6 +670,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "6f6b268a547e984c286275add060308447436ce3bb622b1322fd421740e728a1"
+metafile = true
+
+[[files]]
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "5191840340d135729ebd431025bd4fee9e8f0c5d90a65f35c97144877786add8"
 metafile = true
 
 [[files]]
