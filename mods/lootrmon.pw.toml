@@ -1,16 +1,13 @@
-filename = 'lootrmon-fabric-1.21.1-0.0.0.1.jar'
-name = 'Lootrmon: Lootr & Cobblemon Compatibility'
-side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'alpha'
+name = "Lootrmon: Lootr & Cobblemon Compatibility"
+filename = "lootrmon-fabric-1.21.1-0.0.0.2.jar"
+side = "both"
 
 [download]
-hash = 'aaafeb3ca9011f4e555ca6ce08fabb34465a8bb97f1dcd848b35253d9e5828da28cd18bb418f9745afceab0976aecbba02c59801d1726e994098f730e443c33b'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/ywwXJDli/versions/eyU3Rw7X/lootrmon-fabric-1.21.1-0.0.0.1.jar'
+url = "https://cdn.modrinth.com/data/ywwXJDli/versions/rV2Bl5J7/lootrmon-fabric-1.21.1-0.0.0.2.jar"
+hash-format = "sha512"
+hash = "3cecc945b85118cafe1cb47c668e03fc3b9d211f7e977d2c9d1dd080fd39f28caed883d998b758540e991ddcfcef87cb4c93aac04dd052523626225fed81e0cd"
 
+[update]
 [update.modrinth]
-mod-id = 'ywwXJDli'
-version = 'eyU3Rw7X'
+mod-id = "ywwXJDli"
+version = "rV2Bl5J7"
