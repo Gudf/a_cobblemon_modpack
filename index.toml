@@ -814,7 +814,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "3f1ab2ca4ae1705c406dbaf50832222a5df1961b8f3c664c46c2a2b05f7acc8d"
+hash = "6f6e32451722ff10f4ee6a610f7301473d13f6f50c3544cfdd9089eb25ca7c53"
 metafile = true
 
 [[files]]
@@ -1210,6 +1210,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "f58da16051b04e6e631697a907805ee5112501580111e216015ea450555eb003"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "99cc4bdfa44196b887c0b6ea48622f89a6a004866a9af47b929dabe5331e2605"
 metafile = true
 
 [[files]]
