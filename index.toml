@@ -78,7 +78,7 @@ hash = "05a6e795c0c8c40b9aa4974ee7dadac1024ba4064b777e96648dfe6d03565529"
 
 [[files]]
 file = "config/the_ruler.json"
-hash = "f74403308d2eb2a4638c40c99d0759c632a8e795fffe358017667b4521408646"
+hash = "606a7820d884a8208174a99281ee68306eff7fbe4d157b38adb61ef02f0bd759"
 
 [[files]]
 file = "config/treechop-common.toml"
