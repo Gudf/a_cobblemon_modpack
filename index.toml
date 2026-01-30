@@ -273,6 +273,10 @@ file = "datapacks/cobblecuisine-fix/pack.mcmeta"
 hash = "b504b049ea3496900118195da1c5e0a12d80e1158c77b797e46de801e14ae412"
 
 [[files]]
+file = "datapacks/trek.zip"
+hash = "5b1542d7bf44a19241c9b6a912c592a6157c01ca7765eb6038e8b7dcdc8d10f0"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "a2cb4f42db301d9fa8a389b206104721f23f24d48a4528672c8fb7d06f142d3f"
 metafile = true
@@ -1175,11 +1179,6 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "cea2bd9263c2c2fe4f773e6da4ed9777fbfc65b3eda3b98d6cd7bb52e64fb8e8"
-metafile = true
-
-[[files]]
-file = "mods/trek.pw.toml"
-hash = "9d94576ba2de56ef5ce9ab9a4a464fc13a1a2830acdc581a33d26e4752d9262f"
 metafile = true
 
 [[files]]
